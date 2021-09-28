@@ -46,7 +46,7 @@ function setup (){
   let myCanvas = createCanvas(600, 400);
   myCanvas.parent('data_container');
 
-  // background(40, 40, 40);
+
 }
 
 function draw(){
